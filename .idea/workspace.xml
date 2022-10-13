@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fc4a5d-b5a6-4b44-9c5a-1992cbd0fccb" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="59fc4a5d-b5a6-4b44-9c5a-1992cbd0fccb" name="变更" comment="Do not go gentle into that good night">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G48SsYiOR2t8rjf53seEfhaUw1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,8 +40,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665636501164</updated>
-      <workItem from="1665636503157" duration="110000" />
+      <workItem from="1665636503157" duration="212000" />
     </task>
+    <task id="LOCAL-00001" summary="Do not go gentle into that good night">
+      <created>1665636653791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665636653791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +95,9 @@
         <entry key="fe088c08-5e5d-45d5-8b4a-262b82aebfa9" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Do not go gentle into that good night" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do not go gentle into that good night" />
   </component>
 </project>

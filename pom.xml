@@ -7,10 +7,9 @@
     <groupId>org.example</groupId>
     <artifactId>Lemon_001</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+<!--this is a test words-->
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
     </properties>
-
 </project>
